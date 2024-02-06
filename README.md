@@ -2,7 +2,7 @@
 
 *In this project, an exhaustive analysis of data sourced from a telecommunications company was conducted focusing on their churn rate. Through examination, intricate correlations between various variables and the phenomenon of churn were unraveled. The culmination of this analytical endeavor resulted in the formulation of a strategic plan poised to mitigate churn significantly, with the potential to reclaim over one million dollars annually in lost revenue. This venture not only deciphered the current landscape but also paved the way for a proactive approach that promises substantial financial gains.*
 
-To view the complete project [click here](LINK TO FINISHED NOTEBOOK)
+To view the complete project [click here](https://github.com/peige07/Telco-Churn-Analysis/blob/main/Telco%20Churn%20Rate%20Analysis.ipynb)
 
 <hr>
 
